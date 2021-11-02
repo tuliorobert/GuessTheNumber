@@ -1,4 +1,4 @@
-package GuessTheNumber;
+package data;
 
 public class Game {
     protected Messages msg = new Messages();
